@@ -2,7 +2,7 @@ package Homeworks;
 
 import java.util.Scanner;
 
-public class sum_of_neg_nums_inArray {
+public class SumOfNegNumsInArray {
         public static void main(String[] args) {
             int sum = 0;
 

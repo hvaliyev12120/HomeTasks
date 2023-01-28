@@ -1,6 +1,6 @@
 package Homeworks;
 // second big num here: 35
-public class second_big_num_inArray {
+public class SecondBigNumInArray {
     public static void main(String[] args) {
 
         int[] array = {2, 35, 3, 7, 8, 4, -5, 33, 90};

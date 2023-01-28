@@ -20,7 +20,7 @@ import java.util.TreeSet;
     12. Write a Java program to retrieve and remove the last element of a tree set
  */
 
-public class addElementHashset {
+public class AddElementHashset {
     public static void main(String[] args) {
         HashSet<String> string_1 = new HashSet<>();
         string_1.add("Red");
